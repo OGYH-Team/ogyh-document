@@ -4,3 +4,5 @@ The place where we store all document concerning the projects
 [Budget](https://docs.google.com/spreadsheets/d/1Ia7tv_aB618WuzWPcuH_htC6PMYj0rMWh-0JRWVNVGY/edit?usp=sharing)    
 [Jira Board](https://ogyh.atlassian.net/jira/software/projects/OGYH/boards/1)     
 [Roadmap on Jira](https://ogyh.atlassian.net/jira/software/projects/OGYH/boards/1/roadmap)
+
+![Roadmap](https://cdn.discordapp.com/attachments/888483623303528498/897177472351764520/ogyh_2021-10-12_12.37am.png)

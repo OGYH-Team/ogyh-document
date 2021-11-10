@@ -5,3 +5,12 @@
 [Jira Board](https://ogyh.atlassian.net/jira/software/projects/OGYH/boards/1)         
 [API Format](https://ogyh-backend.herokuapp.com/docs)
 [Roadmap on Jira](https://ogyh.atlassian.net/jira/software/projects/OGYH/boards/1/roadmap)
+
+## Iteration Plan
+[Sprint 1](https://github.com/OGYH-Team/ogyh-document/wiki/Sprint-1)    
+[Sprint 2](https://github.com/OGYH-Team/ogyh-document/wiki/Sprint-2)    
+[Sprint 3](https://github.com/OGYH-Team/ogyh-document/wiki/Sprint-3)     
+
+## Test Plan
+
+## Team Members and Contributors

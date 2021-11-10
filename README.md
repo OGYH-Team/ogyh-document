@@ -13,5 +13,18 @@
 [Sprint 3](https://github.com/OGYH-Team/ogyh-document/wiki/Sprint-3)     
 
 ## Test Plan
+[Test Plan 1](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Sprint-1)
 
 ## Team Members and Contributors
+
+### Product Owner
+[Anusid Wachiracharoenwong](https://github.com/ttxking)
+### Scrum Master
+[Siravit Ruethaiwat](https://github.com/Kuea666)
+### Development Team
+[Bannakorn Sinlapaorankul](https://github.com/borrabeam)    
+[Jakkrathorn Srisawad](https://github.com/Bouncyyahomie)         
+[Chayapol Chaipongsawalee](https://github.com/Chayapol-c)    
+[Krasin Dittaram](https://github.com/Icezu)     
+[Tatpol Samakpong](https://github.com/nicenicegame)     
+[Pittayut B.](https://github.com/RitoruX)

@@ -17,7 +17,7 @@
 [Sprint 5](https://github.com/OGYH-Team/ogyh-document/wiki/Sprint-5)
 
 ## Test Plan
-[Test Plan for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Sprint-1)
+[Test Plan for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Service-site-information)
 
 ## Test Report
 [Test Report for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-report-for-Service-site-information)

@@ -17,12 +17,12 @@
 [Sprint 5](https://github.com/OGYH-Team/ogyh-document/wiki/Sprint-5)
 
 ## Test Plan
-[Test Plan for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Service-site-information)
-
-[Test Plan for reservation](https://github.com/OGYH-Team/ogyh-document/wiki/Test-plan-for-reservation)
+[Test Plan for Service Site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Service-site-information)
+[Test Plan for Reservation](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Reservation)
 
 ## Test Report
-[Test Report for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-report-for-Service-site-information)
+[Test Report for Service Site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-report-for-Service-site-information)
+[Test Report for Reservation](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Report-for-Reservation)
 
 ## Team Members and Contributors
 

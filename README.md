@@ -18,10 +18,12 @@
 
 ## Test Plan
 [Test Plan for Service Site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Service-site-information)
+
 [Test Plan for Reservation](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Reservation)
 
 ## Test Report
 [Test Report for Service Site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-report-for-Service-site-information)
+
 [Test Report for Reservation](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Report-for-Reservation)
 
 ## Team Members and Contributors

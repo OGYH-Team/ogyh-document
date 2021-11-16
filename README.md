@@ -20,6 +20,7 @@
 [Test Plan for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-Plan-for-Sprint-1)
 
 ## Test Report
+[Test Report for Service site Information](https://github.com/OGYH-Team/ogyh-document/wiki/Test-report-for-Service-site-information)
 
 ## Team Members and Contributors
 
